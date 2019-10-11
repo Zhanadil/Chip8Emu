@@ -1,5 +1,5 @@
 [package]
-name = "rust_test"
+name = "chip8_emu"
 version = "0.1.0"
 authors = ["Zhanadil Nurtoleuov <znurtoleuov@gmail.com>"]
 edition = "2018"
